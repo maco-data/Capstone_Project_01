@@ -1,0 +1,23 @@
+For the project I used the last 12 months(as of October 2021).
+
+The files were downloaded from:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+Put them in this Folder and name them like this (October 2020 to September 2021:
+
+202010-Cyclistic-tripdata.csv
+202011-Cyclistic-tripdata.csv
+202012-Cyclistic-tripdata.csv
+202101-Cyclistic-tripdata.csv
+202102-Cyclistic-tripdata.csv
+202103-Cyclistic-tripdata.csv
+202104-Cyclistic-tripdata.csv
+202105-Cyclistic-tripdata.csv
+202106-Cyclistic-tripdata.csv
+202107-Cyclistic-tripdata.csv
+202108-Cyclistic-tripdata.csv
+202109-Cyclistic-tripdata.csv
+
+Or changed the name on the ipynb file.
+
+The reason I did not upload them to GitHub is because total size of the files was 958.4 MB
